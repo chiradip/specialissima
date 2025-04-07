@@ -16,14 +16,14 @@ weight = 100
 parent = "blog"
 
 [[main]]
-name = "Hugo"
-url = "tags/hugo"
+name = "Prepearation"
+url = "tags/prep"
 weight = 20
 parent = "blog"
 
 [[main]]
-name = "Bootstrap"
-url = "tags/bootstrap"
+name = "Ideas"
+url = "tags/ideas"
 weight = 30
 parent = "blog"
 

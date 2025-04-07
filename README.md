@@ -5,7 +5,7 @@
 `npm install @filipecarneiro/hugo-bootstrap-theme`
 
 ### Run he dev server 
-`hugo server`
+`hugo server -w`
 
 ### Deploy to the server 
 Something like the following
