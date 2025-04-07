@@ -4,9 +4,9 @@ description: "Ideas..!"
 date: 2022-05-13T13:00:44+01:00
 draft: false
 images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
-tags: ["Prep"]
-keywords: ["Prep","Preparation"]
+categories: ["Idea"]
+tags: ["Idea", "Ideas"]
+keywords: ["Idea","Ideas"]
 authors: ["Chiradip Mandal"]
 noindex: true
 ---

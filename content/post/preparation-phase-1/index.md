@@ -4,7 +4,7 @@ description: "Specialissima Preparation Phase 1!"
 date: 2022-05-13T13:00:44+01:00
 draft: false
 images: ["bootstrap-5-2-0-beta.png"]
-categories: ["The Bootstrap Blog"]
+categories: ["Preparation"]
 tags: ["Prep"]
 keywords: ["Prep","Preparation"]
 authors: ["Chiradip Mandal"]
