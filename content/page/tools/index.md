@@ -1,14 +1,31 @@
 ---
-title: "Security Best Practices 🔒"
-description: "Improve code health of your web page following these best practices. Prevent security vulnerabilities"
+title: "Tools On Board"
+description: "This is the list of the tools on board"
 draft: false
-tags: ["Featured"]
-keywords: ["security best practices","external links","does not use https","links to cross-origin destinations are unsafe","includes front-end JavaScript libraries with known security vulnerabilities","ensure CSP is effective against XSS attacks","Content Security Policy","csp"]
+tags: ["Featured", "Tools","Tool"]
+images: ["tools.webp"]
+keywords: ["Tools", "tool", "power tools"]
 ---
 
-# Security Best Practices
+# Tools onboard
 
 Improve code health of your web page following these best practices.
+
+## Power tools
+1. Bosch cordless drill
+2. Bosch cordless screw driver 
+3. Bosch batteries - 2 sets 
+4. Bosch battery chargers - 2 sets 
+
+## Racheting tools 
+1. 3/4 inch torque limiter racheting driver 
+2. 1/2 inch racheting driver 
+## Screwing/Fastening Tools
+1. Wiha 32093 Slotted and Phillips Insulated Screwdriver Set, 1000 Volt, 10 Piece
+- Set Includes: Slotted 2.0, 2.5, 3.0, 3.5, 4.5, 6.5mm | Phillips #0, #1, #2, #3
+2. 
+## Cutting Tools 
+## Striking Tools 
 
 ## Use HTTPS
 

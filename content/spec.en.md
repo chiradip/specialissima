@@ -22,8 +22,8 @@ A recreational sailboat operated by M0R0L family in the US and abroad.
 | S.A. (reported):	| 1,376.00 ft² / 127.83 m² |
 | Beam:	| 14.50 ft / 4.42 m |
 | Displacement:	| 31,200.00 lb / 14,152 kg |
-| Ballast:	| 12,000.00 lb / 5,443 kg |
-| Max Draft:	| 7.00 ft / 2.13 m |
+| Ballast:	| 11,000.00 lb / 4,	990 kg |
+| Max Draft:	| 8 ft 9.6 " / 2.13 m |
 | Construction:	| FG |
 | Ballast Type:	| Lead |
 | First Built:	| 1995 |
@@ -54,8 +54,9 @@ A recreational sailboat operated by M0R0L family in the US and abroad.
 | ISP:	| 68.50 ft / 20.88 m |
 | S.A. Fore:	| 626.10 ft² / 58.17 m² |
 | S.A. Main:	| 748.96 ft² / 69.58 m² |
-| S.A. Total (100% Fore + Main Triangles):	| 1,375.06 ft² / 127.75 m² |
-| S.A./Displ. (calc.):	| 22.29 |
+| S.A. Total (100% Fore + Main Triangles):	| 1,375 ft² / 127.73 m² |
+| S.A./Displ. (calc.):	| 22 |
+| Dspl/L	| 130	|
 | Est. Forestay Length:	| 69.11 ft / 21.06 m |
 |<img width=200/>|<img width=500/>|
 
